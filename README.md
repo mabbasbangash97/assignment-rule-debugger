@@ -1,6 +1,5 @@
-# ️ Rule Debugger UI
+# ️ Rule Debugger
 
-A React-based debugging interface for financial crime detection rules. This application allows users to visualize, understand, and debug predefined rules against transaction data.
 
 ![React 19](https://img.shields.io/badge/React-19-blue) ![TypeScript 5.9](https://img.shields.io/badge/TypeScript-5.9-blue) ![Vite](https://img.shields.io/badge/Vite-7.3-purple)
 
@@ -175,7 +174,5 @@ npm run preview
 ```
 
 ---
-
-**Built for the Take-Home Assessment: Rule Debugging UI**
 
 *Technologies: React 19, TypeScript, Vite, CSS Variables*
